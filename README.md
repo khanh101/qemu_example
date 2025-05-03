@@ -1,7 +1,3 @@
-# Wisp
-
-Wisp is a set of simple scripts for setting up small QEMU-based Virtual Machines. (Because I'm an old boomer who hates Docker. (don't @ me))
-
 # Quick Start
 
 ```console
